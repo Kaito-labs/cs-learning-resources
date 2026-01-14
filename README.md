@@ -48,16 +48,17 @@ All entries follow a **standardized template** to ensure consistency, readabilit
     - **K. N. King – Companion Exercises (Unofficial Solutions Repo)**  
       Exercises inspired by *C Programming: A Modern Approach*, with community solutions.  
       https://github.com/SuperMoudy/C-programming-A-Modern-Approach-2nd-ed-Solutions
-
-    - **C Programming Exercises (Practical Small Tasks)**  
-      Collection of 100+ small exercises covering loops, arrays, strings, and pointers.  
-      https://github.com/Programming-Hero-school/c-exercises
+      
+      - **Exercism – C Track**  
+      A structured set of C exercises with tests, designed for progressive learning and practice.  
+      Great for practicing core concepts and building problem-solving skills.  
+      https://github.com/exercism/c
 
     - **C Practice Problems**  
       Repository with multiple beginner and intermediate exercises for practicing C.  
       https://github.com/TheRenegadeCoder/sample-programs/tree/master/projects/c
 
-    - **Extra Practice / Fun Exercises**  
+    - **Extra Practice**  
       Basic C exercises covering variables, loops, arrays, matrices, strings, pointers, and file I/O.  
       Each exercise is self-contained, without explanations, ideal for raw practice.  
       https://github.com/miglioDev/c-basic
