@@ -56,7 +56,7 @@ All entries follow a **standardized template** to ensure consistency, readabilit
 
     - **C Practice Problems**  
       Repository with multiple beginner and intermediate exercises for practicing C.  
-      https://github.com/TheRenegadeCoder/sample-programs/tree/master/projects/c
+      https://github.com/TheRenegadeCoder/sample-programs/tree/main
 
     - **Extra Practice**  
       Basic C exercises covering variables, loops, arrays, matrices, strings, pointers, and file I/O.  
