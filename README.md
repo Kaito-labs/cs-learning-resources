@@ -137,10 +137,6 @@ All entries follow a **standardized template** to ensure consistency, readabilit
       MIT’s educational re-implementation of Unix Version 6. Excellent for learning OS concepts in practice.  
       https://github.com/mit-pdos/xv6-public
 
-    - **OSDev Wiki & Resources**  
-      Community repository linking to tutorials, tools, and guides for building and understanding OS internals.  
-      https://github.com/osdevcommunity/osdev-wiki
-
 ---
 
 ### Computer Architecture
@@ -149,15 +145,6 @@ All entries follow a **standardized template** to ensure consistency, readabilit
     - **Nand2Tetris (The Elements of Computing Systems)**  
       A foundational course that walks from logic gates to a working OS and compiler — deep insights into computer architecture and systems thinking.  
       https://www.nand2tetris.org/
-
-    - **Computer Architecture: A Quantitative Approach — Companion Resources**  
-      Structured notes, slides, and exercises aligned with the classic textbook, focusing on performance, pipelining, memory hierarchy, and parallelism.  
-      https://github.com/Elsevier-Datasets/computer-architecture-quantitative-approach
-
-- **GitHub Repositories**
-    - **SimpleScalar Tools & Simulators**  
-      Benchmarks, simulators, and tools for exploring microarchitecture and performance analysis.  
-      https://github.com/simplescalar/simplescalar
 
     - **Ripes – Visual Computer Architecture Simulator**  
       An interactive visual simulator for computer architecture concepts (pipelining, memory, control logic).  
@@ -180,10 +167,6 @@ All entries follow a **standardized template** to ensure consistency, readabilit
       Classic tutorial focused on socket programming in C (TCP/UDP).  
       https://github.com/beejjorgensen/networking_guides
 
-    - **Awesome Network Analysis**  
-      Curated list of tools and libraries for network analysis, protocols, and learning resources.  
-      https://github.com/briatte/awesome-network-analysis
-
 ---
 
 ### Databases
@@ -201,19 +184,6 @@ All entries follow a **standardized template** to ensure consistency, readabilit
     - **Stanford CS245 – Database Systems**  
       Lecture notes and materials from Stanford’s database systems course, focused on implementation and internals.  
       https://web.stanford.edu/class/cs245/
-
-- **GitHub Repositories**
-    - **Database Internals – Resources**  
-      Curated collection of notes, diagrams, and explanations of database design, storage, indexing, and query processing.  
-      https://github.com/db-internals/resources
-
-    - **PostgreSQL Exercises**  
-      Hands-on exercises to practice PostgreSQL querying, database design, and advanced features.  
-      https://github.com/AlmirDB/postgresql-exercises
-
-    - **Awesome Database**  
-      A highly curated list of database tutorials, tools, open-source engines, and learning resources for multiple DB systems.  
-      https://github.com/numetriclabz/awesome-database
 
 ---
 
@@ -288,11 +258,6 @@ All entries follow a **standardized template** to ensure consistency, readabilit
       https://github.com/DopplerHQ/awesome-interview-questions
 
 ### Tools & Utilities
-
-- **Developer Tools**
-    - **GitHub Learning Lab**  
-      Learn Git and GitHub through interactive courses.  
-      https://lab.github.com/
 
 - **GitHub Repositories**
     - **Awesome Tools**  
