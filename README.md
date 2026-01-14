@@ -49,7 +49,7 @@ All entries follow a **standardized template** to ensure consistency, readabilit
       Exercises inspired by *C Programming: A Modern Approach*, with community solutions.  
       https://github.com/SuperMoudy/C-programming-A-Modern-Approach-2nd-ed-Solutions
       
-      - **Exercism – C Track**  
+    - **Exercism – C Track**  
       A structured set of C exercises with tests, designed for progressive learning and practice.  
       Great for practicing core concepts and building problem-solving skills.  
       https://github.com/exercism/c
