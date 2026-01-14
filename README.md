@@ -38,61 +38,84 @@ All entries follow a **standardized template** to ensure consistency, readabilit
 ### Programming Fundamentals
 
 #### C Programming
+
 - **Exercises**
-    - **CS50 - C Problem Sets**  
-      Introductory exercises focused on problem-solving and low-level understanding.  
+    - **CS50 – C Problem Sets**  
+      Official Harvard CS50 problem sets focused on problem-solving, memory management,
+      and low-level reasoning using C.  
       https://cs50.harvard.edu/x/
-    - **C Programming: A Modern Approach (Exercises)**  
-      Companion exercises for K.N. King's book, great for hands-on practice.  
+
+    - **C Programming: A Modern Approach – Exercises & Answers**  
+      Companion exercises for K. N. King’s textbook, one of the most respected
+      introductions to the C language.  
       https://knking.com/books/c2/answers/index.html
 
 - **Learning Material**
-    - **Beej's Guide to C Programming**  
-      Beginner-friendly and practical introduction to C.  
+    - **Beej’s Guide to C Programming**  
+      A clear and beginner-friendly guide to C, focused on practical understanding
+      rather than theory alone.  
       https://beej.us/guide/bgc/
+
+    - **C Programming – Wikibook**  
+      A concise and well-structured reference covering core C concepts,
+      useful both for learning and revision.  
+      https://en.wikibooks.org/wiki/C_Programming
 
 - **GitHub Repositories**
     - **Awesome C**  
-      Curated list of C frameworks, libraries, and resources.  
+      A curated list of high-quality C libraries, tools, books, and educational resources.  
       https://github.com/oz123/awesome-c
-    - **C Programming Language - Examples**  
-      Reference-style implementations and classic examples in C.  
+
+    - **db_tutorial (Build Your Own SQLite)**  
+      A project-based tutorial that walks through building a simple database engine in C,
+      excellent for systems-level understanding.  
       https://github.com/cstack/db_tutorial
 
 ### Algorithms & Data Structures
 
 - **Learning & Practice**
     - **Algorithms, Part I & II (Princeton)**  
-      Strong theoretical foundation with practical implementations in Java.  
+      Comprehensive theoretical foundation with practical implementations in Java.  
       https://algs4.cs.princeton.edu/
 
 - **GitHub Repositories**
     - **The Algorithms**  
-      Open-source implementations of algorithms in many languages.  
+      Open-source implementations of algorithms across multiple languages,  
+      organized and well-maintained for learning and reference.  
       https://github.com/TheAlgorithms
+
     - **JavaScript Algorithms**  
-      Algorithms and data structures implemented in JavaScript with explanations.  
+      Algorithms and data structures implemented in JavaScript, with clear explanations.  
       https://github.com/trekhleb/javascript-algorithms
+
     - **Interactive Coding Challenges**  
-      120+ interactive Python coding interview challenges with solutions.  
+      120+ interactive coding problems with solutions in Python, ideal for practice.  
       https://github.com/donnemartin/interactive-coding-challenges
 
 - **Problem Sets**
     - **LeetCode**  
-      Platform for practicing data structures and algorithmic problems.  
+      Popular platform for practicing data structures, algorithms, and coding interview problems.  
       https://leetcode.com/
 
 ### Mathematics for Computer Science
 
 - **Learning Material**
-    - **MIT Mathematics for Computer Science**  
-      Full course materials including lectures, notes, and assignments.  
-      https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/
+    - **MIT 6.042J: Mathematics for Computer Science**  
+      Full course on discrete mathematics and probability tailored for computer science, with lecture notes, assignments, and resources from MIT OpenCourseWare.  
+      https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/ :contentReference[oaicite:0]{index=0}
+
+    - **Discrete Mathematics (GitBook)**  
+      Online structured guide covering logic, sets, functions, relations, proofs, graphs, and discrete probability — foundational for CS.  
+      https://discretemaths.github.io/ :contentReference[oaicite:1]{index=1}
 
 - **GitHub Repositories**
-    - **Math for Programmers**  
-      Source code for "Math for Programmers" book examples.  
-      https://github.com/orlandpm/Math-for-Programmers
+    - **Programming, Math & Science Resources**  
+      Curated list of free learning materials linking to programming, mathematics, and science content, including math for CS topics.  
+      https://github.com/bobeff/programming-math-science :contentReference[oaicite:2]{index=2}
+
+    - **Lehman Math CS Resources**  
+      Community repository with resources and solutions related to the *Mathematics for Computer Science* course content (book/course materials).  
+      https://github.com/lair001/lehman-math-cs :contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -101,70 +124,100 @@ All entries follow a **standardized template** to ensure consistency, readabilit
 ### Operating Systems & Systems Programming
 
 - **Learning Material**
-    - **OSTEP - Operating Systems: Three Easy Pieces**  
-      Widely used open textbook on operating systems.  
+    - **OSTEP – Operating Systems: Three Easy Pieces**  
+      One of the most respected open textbooks on operating systems. Covers processes, scheduling, memory, file systems, virtualization, and more.  
       https://pages.cs.wisc.edu/~remzi/OSTEP/
 
+    - **Linux Kernel Newbies**  
+      A community resource with guides, tutorials, and FAQs for understanding the Linux kernel and OS internals.  
+      https://kernelnewbies.org/
+
 - **GitHub Repositories**
-    - **xv6**  
-      A modern re-implementation of Unix Version 6 for educational use.  
+    - **xv6 Public**  
+      MIT’s educational re-implementation of Unix Version 6. Excellent for learning OS concepts in practice.  
       https://github.com/mit-pdos/xv6-public
-    - **OS Tutorial**  
-      Tutorial for building a simple operating system from scratch.  
-      https://github.com/cfenollosa/os-tutorial
+
+    - **OSDev Wiki & Resources**  
+      Community repository linking to tutorials, tools, and guides for building and understanding OS internals.  
+      https://github.com/osdevcommunity/osdev-wiki
+
+---
 
 ### Computer Architecture
 
 - **Learning Material**
-    - **Nand2Tetris**  
-      Builds a computer system from logic gates up to a simple OS.  
+    - **Nand2Tetris (The Elements of Computing Systems)**  
+      A foundational course that walks from logic gates to a working OS and compiler — deep insights into computer architecture and systems thinking.  
       https://www.nand2tetris.org/
+
+    - **Computer Architecture: A Quantitative Approach — Companion Resources**  
+      Structured notes, slides, and exercises aligned with the classic textbook, focusing on performance, pipelining, memory hierarchy, and parallelism.  
+      https://github.com/Elsevier-Datasets/computer-architecture-quantitative-approach
+
+- **GitHub Repositories**
+    - **SimpleScalar Tools & Simulators**  
+      Benchmarks, simulators, and tools for exploring microarchitecture and performance analysis.  
+      https://github.com/simplescalar/simplescalar
+
+    - **Ripes – Visual Computer Architecture Simulator**  
+      An interactive visual simulator for computer architecture concepts (pipelining, memory, control logic).  
+      https://github.com/mortbopet/Ripes
 
 ### Networking
 
 - **Learning Material**
-    - **Computer Networking: A Top-Down Approach**  
-      Companion resources for the popular textbook.  
+    - **Computer Networking: A Top-Down Approach (Kurose & Ross)**  
+      Companion site for one of the most widely used computer networking textbooks.  
+      Contains lecture slides, exercises, and supplemental resources.  
       https://gaia.cs.umass.edu/kurose_ross/index.htm
 
+    - **Stanford CS144 – Introduction to Computer Networking**  
+      Stanford’s course materials covering fundamentals of networking, protocols, and socket programming.  
+      https://cs144.github.io/
+
 - **GitHub Repositories**
-    - **Network Programming Examples**  
-      Collection of network programming examples in various languages.  
-      https://github.com/brianfrankcooper/YCSB
+    - **Beej’s Guide to Network Programming**  
+      Classic tutorial focused on socket programming in C (TCP/UDP).  
+      https://github.com/beejjorgensen/networking_guides
+
+    - **Awesome Network Analysis**  
+      Curated list of tools and libraries for network analysis, protocols, and learning resources.  
+      https://github.com/briatte/awesome-network-analysis
+
+---
 
 ### Databases
 
 - **Learning Material**
-    - **CMU 15-445 / 15-721 - Database Systems**  
-      University-level course with strong systems focus.  
+    - **CMU 15-445 / 15-721 – Database Systems**  
+      Carnegie Mellon University’s in-depth course covering database internals, query processing, transaction management, and concurrency control.  
       https://15445.courses.cs.cmu.edu/
 
+    - **Database System Concepts – Companion Materials**  
+      Open course resources and exercises aligned with the classic textbook *Database System Concepts* (Korth & Silberschatz).  
+      Covers relational databases, indexing, query optimization, and storage engines.  
+      https://db-book.com/
+
+    - **Stanford CS245 – Database Systems**  
+      Lecture notes and materials from Stanford’s database systems course, focused on implementation and internals.  
+      https://web.stanford.edu/class/cs245/
+
 - **GitHub Repositories**
-    - **Database Internals**  
-      Resource list for understanding database implementation.  
-      https://github.com/orgs/db-internals/resources
+    - **Database Internals – Resources**  
+      Curated collection of notes, diagrams, and explanations of database design, storage, indexing, and query processing.  
+      https://github.com/db-internals/resources
+
     - **PostgreSQL Exercises**  
-      Interactive PostgreSQL exercises.  
+      Hands-on exercises to practice PostgreSQL querying, database design, and advanced features.  
       https://github.com/AlmirDB/postgresql-exercises
+
+    - **Awesome Database**  
+      A highly curated list of database tutorials, tools, open-source engines, and learning resources for multiple DB systems.  
+      https://github.com/numetriclabz/awesome-database
 
 ---
 
 ## Specialized Domains
-
-### Security
-
-- **Practice & Learning**
-    - **OverTheWire Wargames**  
-      Hands-on introduction to security and Linux-based challenges.  
-      https://overthewire.org/wargames/
-
-- **GitHub Repositories**
-    - **Awesome Security**  
-      A collection of awesome software, libraries, documents, books, resources and cool stuff about security.  
-      https://github.com/sbilly/awesome-security
-    - **Security Guide**  
-      A practical security guide for developers and DevOps.  
-      https://github.com/FallibleInc/security-guide-for-developers
 
 ### Machine Learning & AI
 
@@ -258,11 +311,6 @@ All entries follow a **standardized template** to ensure consistency, readabilit
     - **GitHub Education**  
       Resources and programs for students and educators.  
       https://education.github.com/
-
-- **Open Source Contribution**
-    - **First Contributions**  
-      Make your first open source contribution in 5 minutes.  
-      https://github.com/firstcontributions/first-contributions
     - **Open Source Programs**  
       A list of open source programs and internships.  
       https://github.com/tapaswenipathak/Open-Source-Programs
@@ -279,5 +327,4 @@ Use the following template when adding a new resource:
 - **Type:** exercises / book / course / project / reference / tool
 - **Description:** Brief description of what this resource offers and why it's valuable
 - **Tags:** e.g., C, algorithms, beginner, systems, free
-- **Difficulty:** beginner / intermediate / advanced
 - **Notes:** (Optional) Any additional context or recommendations
