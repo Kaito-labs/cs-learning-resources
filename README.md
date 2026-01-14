@@ -45,10 +45,23 @@ All entries follow a **standardized template** to ensure consistency, readabilit
       and low-level reasoning using C.  
       https://cs50.harvard.edu/x/
 
-    - **C Programming: A Modern Approach – Exercises & Answers**  
-      Companion exercises for K. N. King’s textbook, one of the most respected
-      introductions to the C language.  
-      https://knking.com/books/c2/answers/index.html
+    - **K. N. King – Companion Exercises (Unofficial Solutions Repo)**  
+      Exercises inspired by *C Programming: A Modern Approach*, with community solutions.  
+      https://github.com/SuperMoudy/C-programming-A-Modern-Approach-2nd-ed-Solutions
+
+    - **C Programming Exercises (Practical Small Tasks)**  
+      Collection of 100+ small exercises covering loops, arrays, strings, and pointers.  
+      https://github.com/Programming-Hero-school/c-exercises
+
+    - **C Practice Problems**  
+      Repository with multiple beginner and intermediate exercises for practicing C.  
+      https://github.com/TheRenegadeCoder/sample-programs/tree/master/projects/c
+
+    - **Extra Practice / Fun Exercises**  
+      Basic C exercises covering variables, loops, arrays, matrices, strings, pointers, and file I/O.  
+      Each exercise is self-contained, without explanations, ideal for raw practice.  
+      https://github.com/miglioDev/c-basic
+
 
 - **Learning Material**
     - **Beej’s Guide to C Programming**  
@@ -61,7 +74,7 @@ All entries follow a **standardized template** to ensure consistency, readabilit
       useful both for learning and revision.  
       https://en.wikibooks.org/wiki/C_Programming
 
-- **GitHub Repositories**
+- **Others GitHub Repositories**
     - **Awesome C**  
       A curated list of high-quality C libraries, tools, books, and educational resources.  
       https://github.com/oz123/awesome-c
