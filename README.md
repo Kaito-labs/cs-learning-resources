@@ -1,7 +1,5 @@
 ![CS Learning Resources Banner](./assets/banner.png)
 
-![CS Learning Resources Banner](./assets/banner.png)
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=2000&color=60A5FA&repeat=false&width=520&lines=CS+Learning+Resources"
