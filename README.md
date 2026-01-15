@@ -118,21 +118,20 @@ All entries follow a **standardized template** to ensure consistency, readabilit
 - **Learning Material**
     - **MIT 6.042J: Mathematics for Computer Science**  
       Full course on discrete mathematics and probability tailored for computer science, with lecture notes, assignments, and resources from MIT OpenCourseWare.  
-      https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/ :contentReference[oaicite:0]{index=0}
+      https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/
 
     - **Discrete Mathematics (GitBook)**  
       Online structured guide covering logic, sets, functions, relations, proofs, graphs, and discrete probability — foundational for CS.  
-      https://discretemaths.github.io/ :contentReference[oaicite:1]{index=1}
+      https://discretemaths.github.io/
 
 - **GitHub Repositories**
     - **Programming, Math & Science Resources**  
       Curated list of free learning materials linking to programming, mathematics, and science content, including math for CS topics.  
-      https://github.com/bobeff/programming-math-science :contentReference[oaicite:2]{index=2}
+      https://github.com/bobeff/programming-math-science
 
     - **Lehman Math CS Resources**  
       Community repository with resources and solutions related to the *Mathematics for Computer Science* course content (book/course materials).  
-      https://github.com/lair001/lehman-math-cs :contentReference[oaicite:3]{index=3}
-
+      https://github.com/lair001/lehman-math-cs
 ---
 
 ## Systems & Infrastructure
