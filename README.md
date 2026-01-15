@@ -147,11 +147,30 @@ All entries follow a **standardized template** to ensure consistency, readabilit
     - **Linux Kernel Newbies**  
       A community resource with guides, tutorials, and FAQs for understanding the Linux kernel and OS internals.  
       https://kernelnewbies.org/
+      
+    - **The Linux Programming Interface – Online Resources**  
+      Companion site for TLPI, with examples and clarifications on Linux system calls and low-level APIs.  
+      https://man7.org/tlpi/
 
-- **GitHub Repositories**
-    - **xv6 Public**  
-      MIT’s educational re-implementation of Unix Version 6. Excellent for learning OS concepts in practice.  
-      https://github.com/mit-pdos/xv6-public
+    - **Advanced Programming in the UNIX Environment (APUE)**  
+      Classic reference for UNIX/POSIX system programming concepts and patterns.  
+      https://stevens.netmeister.org/631/
+
+    - **Linux From Scratch (LFS)**  
+      Step-by-step guide to building a Linux system from source, ideal for understanding OS internals.  
+      https://www.linuxfromscratch.org/
+
+    - **OSDev Wiki**  
+      Practical wiki for learning operating system development from scratch (bootloaders, kernels, drivers).  
+      https://wiki.osdev.org/
+
+    - **Linux Kernel Source**  
+      Official mirror of the Linux kernel source code. Useful for real-world OS exploration.  
+      https://github.com/torvalds/linux
+
+    - **minix**  
+      Educational microkernel-based operating system, historically influential for OS research.  
+      https://github.com/Stichting-MINIX-Research-Foundation/minix
 
 ---
 
@@ -165,6 +184,18 @@ All entries follow a **standardized template** to ensure consistency, readabilit
     - **Ripes – Visual Computer Architecture Simulator**  
       An interactive visual simulator for computer architecture concepts (pipelining, memory, control logic).  
       https://github.com/mortbopet/Ripes
+      
+    - **CS61C – Great Ideas in Computer Architecture (UC Berkeley)**  
+      Strong focus on RISC-V, performance, memory hierarchy, and low-level reasoning.  
+      https://cs61c.org/
+  
+    - **MIT 6.004 – Computation Structures**  
+      Comprehensive course covering digital logic, processor design, pipelining, and memory systems.  
+      https://computationstructures.org/
+      
+    - **computer-architecture-exercises**  
+      Collection of foundational computer architecture exercises with clear explanations (binary operations, encoding, digital-circuits).  
+      https://github.com/miglioDev/computer-architecture-exercises
 
 ### Networking
 
@@ -178,11 +209,17 @@ All entries follow a **standardized template** to ensure consistency, readabilit
       Stanford’s course materials covering fundamentals of networking, protocols, and socket programming.  
       https://cs144.github.io/
 
-- **GitHub Repositories**
     - **Beej’s Guide to Network Programming**  
       Classic tutorial focused on socket programming in C (TCP/UDP).  
       https://github.com/beejjorgensen/networking_guides
-
+      
+    - **The TCP/IP Guide**  
+      Deep and structured reference covering the entire TCP/IP stack.  
+      http://www.tcpipguide.com/
+      
+    - **Practical Networking**  
+      Clear, engineer-oriented explanations of core networking concepts (TCP, IP, routing, NAT, DNS).  
+      https://www.practicalnetworking.net/
 ---
 
 ### Databases
@@ -200,6 +237,14 @@ All entries follow a **standardized template** to ensure consistency, readabilit
     - **Stanford CS245 – Database Systems**  
       Lecture notes and materials from Stanford’s database systems course, focused on implementation and internals.  
       https://web.stanford.edu/class/cs245/
+      
+    - **Use The Index, Luke!**  
+      Practical, engineer-friendly guide to indexing, query performance, and SQL optimization.  
+      https://use-the-index-luke.com/
+      
+    - **postgresql**  
+      Full-featured open-source relational database showcasing real-world query planning, MVCC, and storage engines.  
+      https://github.com/postgres/postgres
 
 ---
 
