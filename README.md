@@ -1,10 +1,12 @@
+![CS Learning Resources Banner](./assets/banner.png)
+
 # CS Learning Resources
 
 A curated and continuously evolving collection of **high-quality learning resources** for **Computer Science students**.
 
-The goal of this repository is to provide a **structured, noise-free entry point** to reliable materials for studying core CS topics, practicing problem-solving, and building practical skills over time.
+This repository aims to provide a **structured, noise-free entry point** to reliable materials for studying core CS topics, practicing problem-solving, and building practical skills over time.
 
-This repository does **not** host original educational content.  
+This project does **not** host original educational content.  
 It acts as a **curated index** of external resources selected for clarity, educational value, and long-term relevance.
 
 ---
