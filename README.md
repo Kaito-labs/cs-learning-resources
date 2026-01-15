@@ -1,11 +1,6 @@
 ![CS Learning Resources Banner](./assets/banner.png)
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/demo/?font=JetBrains+Mono&weight=500&size=28&pause=2000&color=60A5FA&center=true&repeat=false&lines=CS+Learning+Resources"
-    alt="CS Learning Resources"
-  />
-</p>
+# CS Learning Resources
 
 A curated and continuously evolving collection of **high-quality learning resources** for **Computer Science students**.
 
