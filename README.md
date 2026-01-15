@@ -1,6 +1,6 @@
 ![CS Learning Resources Banner](./assets/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&pause=2000&color=60A5FA&center=true&repeat=false&width=435&lines=CS+Learning+Resources)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=28&pause=2000&color=60A5FA&center=true&vCenter=true&repeat=false&width=435&lines=CS+Learning+Resources)](https://git.io/typing-svg)
 
 A curated and continuously evolving collection of **high-quality learning resources** for **Computer Science students**.
 
