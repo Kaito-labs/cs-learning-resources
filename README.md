@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=28&pause=2000&color=60A5FA&repeat=false&width=560&lines=CS+Learning+Resources"
+    src="https://readme-typing-svg.demolab.com/demo/?font=JetBrains+Mono&weight=500&size=28&pause=2000&color=60A5FA&center=true&repeat=false&lines=CS+Learning+Resources"
     alt="CS Learning Resources"
   />
 </p>
