@@ -1,5 +1,3 @@
-![CS Learning Resources Banner](./assets/banner.png)
-
 # ![CS Learning Resources Banner](./assets/banner.png)
 
 # CS Learning Resources
