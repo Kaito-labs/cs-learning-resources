@@ -1,7 +1,7 @@
 # ![CS Learning Resources Banner](./assets/banner.png)
 
 # CS Learning Resources
-A structured, high-quality index of learning resources for Computer Science students.
+A curated, structured collection of Computer Science learning resources
 
 ![Stars](https://img.shields.io/github/stars/Kaito-labs/cs-learning-resources?style=flat-square)
 ![License](https://img.shields.io/github/license/Kaito-labs/cs-learning-resources?style=flat-square&v=1)
