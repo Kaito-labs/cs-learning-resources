@@ -1,37 +1,57 @@
 ![CS Learning Resources Banner](./assets/banner.png)
 
+# ![CS Learning Resources Banner](./assets/banner.png)
+
 # CS Learning Resources
+A structured, high-quality index of learning resources for Computer Science students.
 
-A curated and continuously evolving collection of **high-quality learning resources** for **Computer Science students**.
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=flat-square)
+![License](https://img.shields.io/github/license/USERNAME/REPO?style=flat-square)
+![Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=flat-square)
 
-This repository aims to provide a **structured, noise-free entry point** to reliable materials for studying core CS topics, practicing problem-solving, and building practical skills over time.
+---
+
+## Overview
+
+**CS Learning Resources** is a curated and continuously evolving collection of **reliable external resources** for studying Computer Science.
+
+The repository is designed to provide a **clean, structured entry point** to core CS topics, avoiding low-quality material and unnecessary duplication.
+
+It is intended for:
+- Computer Science students
+- Self-learners following an academic-style path
+- Developers strengthening fundamentals
 
 This project does **not** host original educational content.  
-It acts as a **curated index** of external resources selected for clarity, educational value, and long-term relevance.
+It serves as a **carefully selected index** of books, courses, notes, exercises, tools, and repositories chosen for clarity and long-term value.
 
 ---
 
 ## How to Use This Repository
 
-- Browse sections based on the topic you want to study
-- Each section is divided into logical subsections (e.g. exercises, theory, projects)
-- Resources include short descriptions, tags, and difficulty levels
-- This repository is meant to be revisited as your knowledge grows
+- Navigate by topic according to what you want to study
+- Each topic is divided into logical subsections such as:
+  - theory
+  - exercises
+  - projects
+  - tools
+- Resources include short descriptions and contextual notes when necessary
 
-The structure is designed to support **incremental learning**: from foundational concepts to more advanced material.
+The repository is meant to be **revisited over time** as knowledge progresses.
 
 ---
 
 ## Organization Strategy
 
-Resources are organized by **core Computer Science domains**.  
-Each domain may contain:
-- Exercises and practice problems
-- Learning material (books, courses, notes)
-- Useful repositories and tools
-- Project ideas
+Resources are organized by **core Computer Science domains**.
 
-All entries follow a **standardized template** to ensure consistency, readability, and easy comparison between resources.
+Each domain may include:
+- learning material
+- practice exercises
+- reference repositories
+- applied project ideas
+
+All entries follow a **consistent and minimal format** to ensure readability and easy comparison between resources.
 
 ---
 
