@@ -8,6 +8,21 @@ A structured, high-quality index of learning resources for Computer Science stud
 ![Issues](https://img.shields.io/github/issues/Kaito-labs/cs-learning-resources?style=flat-square)
 
 ---
+## Table of Contents
+
+- [Overview](#overview)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Organization Strategy](#organization-strategy)
+- [Foundational & Core Topics](#foundational--core-topics)
+  - [Programming Fundamentals](#programming-fundamentals)
+    - [C Programming](#c-programming)
+  - [Algorithms & Data Structures](#algorithms--data-structures)
+  - [Mathematics for Computer Science](#mathematics-for-computer-science)
+- [Systems & Infrastructure](#systems--infrastructure)
+  - [Operating Systems & Systems Programming](#operating-systems--systems-programming)
+  - [Computer Architecture](#computer-architecture)
+
+---
 
 ## Overview
 
@@ -150,7 +165,6 @@ All entries follow a **consistent and minimal format** to ensure readability and
     - **Lehman Math CS Resources**  
       Community repository with resources and solutions related to the *Mathematics for Computer Science* course content (book/course materials).  
       https://github.com/lair001/lehman-math-cs
----
 
 ## Systems & Infrastructure
 
@@ -357,17 +371,3 @@ All entries follow a **consistent and minimal format** to ensure readability and
     - **Open Source Programs**  
       A list of open source programs and internships.  
       https://github.com/tapaswenipathak/Open-Source-Programs
-
----
-
-## Resource Entry Template
-
-Use the following template when adding a new resource:
-
-```markdown
-### Resource Name
-- **Link:** [URL](https://example.com)
-- **Type:** exercises / book / course / project / reference / tool
-- **Description:** Brief description of what this resource offers and why it's valuable
-- **Tags:** e.g., C, algorithms, beginner, systems, free
-- **Notes:** (Optional) Any additional context or recommendations
