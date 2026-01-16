@@ -58,7 +58,7 @@ It serves as a **carefully selected index** of books, courses, notes, exercises,
 ## How to Use This Repository
 
 - Navigate by topic according to what you want to study
-- Each topic is divided into logical subsections such as:
+- Depending on the topic, sections may include resources related to:
   - theory
   - exercises
   - projects
