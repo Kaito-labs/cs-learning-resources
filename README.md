@@ -13,14 +13,29 @@ A curated, structured collection of Computer Science learning resources
 - [Overview](#overview)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Organization Strategy](#organization-strategy)
+
 - [Foundational & Core Topics](#foundational--core-topics)
   - [Programming Fundamentals](#programming-fundamentals)
     - [C Programming](#c-programming)
   - [Algorithms & Data Structures](#algorithms--data-structures)
   - [Mathematics for Computer Science](#mathematics-for-computer-science)
+
 - [Systems & Infrastructure](#systems--infrastructure)
   - [Operating Systems & Systems Programming](#operating-systems--systems-programming)
   - [Computer Architecture](#computer-architecture)
+  - [Networking](#networking)
+  - [Databases](#databases)
+
+- [Specialized Domains](#specialized-domains)
+  - [Machine Learning & AI](#machine-learning--ai)
+  - [Web Development](#web-development)
+  - [Software Engineering Practices](#software-engineering-practices)
+
+- [Practical Skills & Projects](#practical-skills--projects)
+  - [Project Ideas](#project-ideas)
+  - [Interview Preparation](#interview-preparation)
+  - [Tools & Utilities](#tools--utilities)
+  - [GitHub Learning Resources](#github-learning-resources)
 
 ---
 
@@ -356,8 +371,14 @@ All entries follow a **consistent and minimal format** to ensure readability and
       Curated list of tools for developers.  
       https://github.com/cube-js/awesome-tools
     - **Developer Roadmap**  
-      Roadmap to becoming a web developer in 2024.  
+      Roadmap to becoming a web developer in 2026.  
       https://github.com/kamranahmedse/developer-roadmap
+    - **The Missing Semester of Your CS Education**  
+      Practical tools and workflows commonly used by developers but rarely taught in courses.  
+      https://github.com/missing-semester/missing-semester
+    - **Awesome CLI Apps**  
+      Curated list of useful command-line tools for productivity and development.  
+      https://github.com/agarrharr/awesome-cli-apps
 
 ### GitHub Learning Resources
 
@@ -371,3 +392,9 @@ All entries follow a **consistent and minimal format** to ensure readability and
     - **Open Source Programs**  
       A list of open source programs and internships.  
       https://github.com/tapaswenipathak/Open-Source-Programs
+    - **GitHub Docs**  
+      Official and well-written documentation for GitHub features and workflows.  
+      https://docs.github.com/
+    - **Open Source Guides**  
+      Best practices for contributing to and maintaining open source projects.  
+      https://opensource.guide/
