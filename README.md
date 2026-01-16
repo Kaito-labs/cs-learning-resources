@@ -3,9 +3,9 @@
 # CS Learning Resources
 A structured, high-quality index of learning resources for Computer Science students.
 
-![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=flat-square)
-![License](https://img.shields.io/github/license/USERNAME/REPO?style=flat-square)
-![Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Kaito-labs/https://github.com/Kaito-labs/cs-learning-resources?style=flat-square)
+![License](https://img.shields.io/github/license/Kaito-labs/https://github.com/Kaito-labs/cs-learning-resources?style=flat-square)
+![Issues](https://img.shields.io/github/issues/Kaito-labs/https://github.com/Kaito-labs/cs-learning-resources?style=flat-square)
 
 ---
 
