@@ -4,7 +4,7 @@
 A structured, high-quality index of learning resources for Computer Science students.
 
 ![Stars](https://img.shields.io/github/stars/Kaito-labs/cs-learning-resources?style=flat-square)
-![License](https://img.shields.io/github/license/Kaito-labs/cs-learning-resources?style=flat-square)
+![License](https://img.shields.io/github/license/Kaito-labs/cs-learning-resources?style=flat-square&v=1)
 ![Issues](https://img.shields.io/github/issues/Kaito-labs/cs-learning-resources?style=flat-square)
 
 ---
