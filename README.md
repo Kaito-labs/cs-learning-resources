@@ -12,8 +12,6 @@ A curated, structured collection of Computer Science learning resources
 ## Table of Contents
 
 - [Overview](#overview)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Organization Strategy](#organization-strategy)
 
 - [Foundational & Core Topics](#foundational--core-topics)
   - [Programming Fundamentals](#programming-fundamentals)
@@ -44,45 +42,26 @@ A curated, structured collection of Computer Science learning resources
 
 ## Overview
 
-**CS Learning Resources** is a curated and continuously evolving collection of **reliable external resources** for studying Computer Science.
+**CS Learning Resources** is a curated, maintained index of high-quality, open-access materials for learning Computer Science.  
+This repository gathers books, courses, lecture notes, exercises, tools, and exemplary repositories chosen for clarity, accuracy, and long-term usefulness.
 
-The repository is designed to provide a **clean, structured entry point** to core CS topics, avoiding low-quality material and unnecessary duplication.
+Who this is for:
+- CS students following an academic path
+- Self-learners building a rigorous curriculum
+- Developers re-focusing on fundamentals
 
-It is intended for:
-- Computer Science students
-- Self-learners following an academic-style path
-- Developers strengthening fundamentals
+How to use this repo:
+- Browse by topic in the Table of Contents and follow a natural progression (foundations → systems → applied domains).  
+- Each entry is minimal: **title — 1–2 line blurb — link** so you can quickly compare resources.  
+- Mix theory (textbooks, lectures) with practice (exercises, projects, playgrounds) — revisit sections as your knowledge grows.
 
-This project does **not** host original educational content.  
-It serves as a **carefully selected index** of books, courses, notes, exercises, tools, and repositories chosen for clarity and long-term value.
+Organization & conventions:
+- Resources are grouped by **core CS domains** (Foundational, Systems, Specialized, Practical).  
+- Entries use a uniform format to remain scannable; maintainers aim to avoid duplication and low-quality links.
 
----
-
-## How to Use This Repository
-
-- Navigate by topic according to what you want to study
-- Depending on the topic, sections may include resources related to:
-  - theory
-  - exercises
-  - projects
-  - tools
-- Resources include short descriptions and contextual notes when necessary
-
-The repository is meant to be **revisited over time** as knowledge progresses.
-
----
-
-## Organization Strategy
-
-Resources are organized by **core Computer Science domains**.
-
-Each domain may include:
-- learning material
-- practice exercises
-- reference repositories
-- applied project ideas
-
-All entries follow a **consistent and minimal format** to ensure readability and easy comparison between resources.
+Quick note:
+- This project **does not** host original lessons; it indexes external material only.  
+- If you would like to contribute, feel free to open a pull request and make sure to follow the repository guidelines and Code of Conduct.
 
 ---
 
