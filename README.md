@@ -6,7 +6,6 @@ A curated, structured collection of Computer Science learning resources
 ![Stars](https://img.shields.io/github/stars/Kaito-labs/cs-learning-resources?style=flat-square)
 ![License](https://img.shields.io/github/license/Kaito-labs/cs-learning-resources?style=flat-square&v=1)
 ![Issues](https://img.shields.io/github/issues/Kaito-labs/cs-learning-resources?style=flat-square)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kaito-labs.cs-learning-resources)
 
 ---
 ## Table of Contents
