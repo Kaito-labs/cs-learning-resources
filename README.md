@@ -6,6 +6,7 @@ A curated, structured collection of Computer Science learning resources
 ![Stars](https://img.shields.io/github/stars/Kaito-labs/cs-learning-resources?style=flat-square)
 ![License](https://img.shields.io/github/license/Kaito-labs/cs-learning-resources?style=flat-square&v=1)
 ![Issues](https://img.shields.io/github/issues/Kaito-labs/cs-learning-resources?style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kaito-labs.cs-learning-resources)
 
 ---
 ## Table of Contents
@@ -17,7 +18,9 @@ A curated, structured collection of Computer Science learning resources
 - [Foundational & Core Topics](#foundational--core-topics)
   - [Programming Fundamentals](#programming-fundamentals)
     - [C Programming](#c-programming)
+  - [Programming Languages (Concepts & Language Design)](#programming-languages-concepts--language-design)
   - [Algorithms & Data Structures](#algorithms--data-structures)
+  - [Theory of Computation](#theory-of-computation)
   - [Mathematics for Computer Science](#mathematics-for-computer-science)
 
 - [Systems & Infrastructure](#systems--infrastructure)
@@ -113,6 +116,26 @@ All entries follow a **consistent and minimal format** to ensure readability and
       Each exercise is self-contained, without explanations, ideal for raw practice.  
       https://github.com/miglioDev/c-basic
 
+---
+
+### Programming Languages (Concepts & Language Design)
+
+- **MIT 6.001 – Structure and Interpretation of Computer Programs (SICP)**  
+  Classic MIT course on programming fundamentals, abstraction, and computational thinking.  
+  https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/
+
+- **Crafting Interpreters**  
+  Hands-on guide to building a programming language interpreter from scratch.  
+  https://craftinginterpreters.com/
+
+- **Eloquent JavaScript**  
+  Modern and well-written introduction to programming using JavaScript.  
+  https://eloquentjavascript.net/
+
+- **Python for Everybody**  
+  Beginner-friendly Python course with free lectures, assignments, and textbook.  
+  https://www.py4e.com/
+
 
 - **Learning Material**
     - **Beej’s Guide to C Programming**  
@@ -141,6 +164,18 @@ All entries follow a **consistent and minimal format** to ensure readability and
     - **Algorithms, Part I & II (Princeton)**  
       Comprehensive theoretical foundation with practical implementations in Java.  
       https://algs4.cs.princeton.edu/
+      
+    - **MIT 6.006 – Introduction to Algorithms**  
+      Complete undergraduate algorithms course with lectures, notes, and problem sets.  
+      https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/
+      
+    - **VisuAlgo**  
+      Interactive visualizations for algorithms and data structures.  
+      https://visualgo.net/
+      
+    - **Open Data Structures**  
+      Free open textbook covering fundamental data structures with implementations and analysis.  
+      https://opendatastructures.org/
 
 - **GitHub Repositories**
     - **The Algorithms**  
@@ -160,6 +195,16 @@ All entries follow a **consistent and minimal format** to ensure readability and
     - **LeetCode**  
       Popular platform for practicing data structures, algorithms, and coding interview problems.  
       https://leetcode.com/
+      
+## Theory of Computation
+
+- **MIT 18.404J – Theory of Computation**  
+  MIT course covering automata, computability, and complexity theory.  
+  https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/
+
+- **JFLAP**  
+  Interactive tool for experimenting with automata, grammars, and Turing machines.  
+  https://www.jflap.org/
 
 ### Mathematics for Computer Science
 
@@ -171,6 +216,14 @@ All entries follow a **consistent and minimal format** to ensure readability and
     - **Discrete Mathematics (GitBook)**  
       Online structured guide covering logic, sets, functions, relations, proofs, graphs, and discrete probability — foundational for CS.  
       https://discretemaths.github.io/
+      
+    - **Discrete Mathematics: An Open Introduction**  
+      Open-source discrete math textbook for computer science students.  
+      https://discrete.openmathbooks.org/
+      
+    - **MIT 18.06 – Linear Algebra (Strang)**  
+       Classic linear algebra course with applications and intuition.  
+       https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 
 - **GitHub Repositories**
     - **Programming, Math & Science Resources**  
@@ -190,17 +243,21 @@ All entries follow a **consistent and minimal format** to ensure readability and
       One of the most respected open textbooks on operating systems. Covers processes, scheduling, memory, file systems, virtualization, and more.  
       https://pages.cs.wisc.edu/~remzi/OSTEP/
 
-    - **Linux Kernel Newbies**  
-      A community resource with guides, tutorials, and FAQs for understanding the Linux kernel and OS internals.  
-      https://kernelnewbies.org/
-      
-    - **The Linux Programming Interface – Online Resources**  
-      Companion site for TLPI, with examples and clarifications on Linux system calls and low-level APIs.  
-      https://man7.org/tlpi/
+    - **MIT 6.828 – Operating System Engineering**  
+      Advanced MIT course on OS design with lectures and labs.  
+      https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/
 
     - **Advanced Programming in the UNIX Environment (APUE)**  
       Classic reference for UNIX/POSIX system programming concepts and patterns.  
       https://stevens.netmeister.org/631/
+
+    - **The Linux Programming Interface – Online Resources**  
+      Companion site for TLPI, with examples and clarifications on Linux system calls and low-level APIs.  
+      https://man7.org/tlpi/
+
+    - **Linux Kernel Newbies**  
+      Community-driven guides, tutorials, and FAQs for understanding the Linux kernel and OS internals.  
+      https://kernelnewbies.org/
 
     - **Linux From Scratch (LFS)**  
       Step-by-step guide to building a Linux system from source, ideal for understanding OS internals.  
@@ -210,13 +267,13 @@ All entries follow a **consistent and minimal format** to ensure readability and
       Practical wiki for learning operating system development from scratch (bootloaders, kernels, drivers).  
       https://wiki.osdev.org/
 
-    - **Linux Kernel Source**  
-      Official mirror of the Linux kernel source code. Useful for real-world OS exploration.  
-      https://github.com/torvalds/linux
-
     - **minix**  
       Educational microkernel-based operating system, historically influential for OS research.  
       https://github.com/Stichting-MINIX-Research-Foundation/minix
+
+    - **Linux Kernel Source**  
+      Official mirror of the Linux kernel source code. Useful for real-world OS exploration.  
+      https://github.com/torvalds/linux
 
 ---
 
@@ -291,6 +348,14 @@ All entries follow a **consistent and minimal format** to ensure readability and
     - **postgresql**  
       Full-featured open-source relational database showcasing real-world query planning, MVCC, and storage engines.  
       https://github.com/postgres/postgres
+      
+    - **SQLBolt**  
+      Interactive in-browser SQL tutorial for beginners.  
+      https://sqlbolt.com/
+  
+    - **SQLZoo**  
+      Practical SQL lessons with exercises and quizzes.  
+      https://sqlzoo.net/
 
 ---
 
