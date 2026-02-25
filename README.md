@@ -51,7 +51,7 @@ Who this is for:
 
 How to use this repo:
 - Browse by topic in the Table of Contents and follow a natural progression (foundations → systems → applied domains).  
-- Each entry is minimal: **title — 1–2 line blurb — link** so you can quickly compare resources.  
+- Each entry is minimal: **title 1–2 line blurb and link** so you can quickly compare resources.  
 - Mix theory (textbooks, lectures) with practice (exercises, projects, playgrounds) — revisit sections as your knowledge grows.
 
 Organization & conventions:
